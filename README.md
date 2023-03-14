@@ -22,7 +22,7 @@
 - A plain CNN model without dropouts and batch normalization also doesn't provide good result in terms of accuracy.
 - When the images were augmented, and dropouts were added, there was unnoticable change in accruacy and it didn't solve underfitting.
 - Dropouts improved the performance significantly
-- Class rebalancing played a big part in improving the accuracy when coupled with batch normalization and augmentation. The validation accuracy jumped from 50% to 82%.
+- Class rebalancing played a big part in improving the accuracy when coupled with batch normalization and augmentation. The validation accuracy jumped from 50% to 85.5%.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
